@@ -1,0 +1,18 @@
+{
+  "author": "Dominic Tarr <dominic.tarr@gmail.com> (http://bit.ly/dominictarr)",
+  "name": "haibu-express",
+  "version": "0.0.0",
+  "homepage": "https://github.com/dominictarr/hello-haibu-express",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dominictarr/hello-haibu-express.git"
+  },
+  "main": "app.js",
+  "engines": {
+    "node": "~v0.4.7"
+  },
+  "dependencies": {
+  "express" : "2.3.5"
+  },
+  "devDependencies": {}
+}
