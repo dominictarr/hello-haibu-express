@@ -13,9 +13,7 @@
   },
   "dependencies": {
   "express" : "2.3.5",
-  "haibu" : "*",
   "jade" : "*",
-  "eyes": "> 0.1.6"
     },
   "script": {"start":"app.js"},
   "devDependencies": {}
