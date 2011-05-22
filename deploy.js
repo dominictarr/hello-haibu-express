@@ -17,15 +17,13 @@ var app = {
      "url": "https://dominictarr@github.com/dominictarr/hello-haibu-express.git",
    },
    "scripts": {
-     "start": "server.js"
+     "start": "app.js"
    }
 };
 
 //Attempt to start up a new application
-//client.get('test', function (app){
 
   client.clean(app,function (err){
-  //  console.log('cleaned app:');
     console.log('[go to haibu server tab and enter sudo password]') //  this is a UI bug i'm getting.
 
     client.start(app, function (err, result) {
