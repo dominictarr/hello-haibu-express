@@ -13,7 +13,7 @@
   },
   "dependencies": {
   "express" : "2.3.5",
-  "jade" : "*",
+  "jade" : "*"
     },
   "script": {"start":"app.js"},
   "devDependencies": {}
